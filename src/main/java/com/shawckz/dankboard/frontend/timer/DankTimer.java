@@ -103,4 +103,10 @@ public class DankTimer extends XScoreboardTimer {
         setFrozen(true);
         updateLabel();
     }
+
+    public void show(){
+        setVisible(true);
+        updateLabel();
+    }
+
 }

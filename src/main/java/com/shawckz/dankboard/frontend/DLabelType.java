@@ -1,6 +1,6 @@
 package com.shawckz.dankboard.frontend;
 
-public enum FLabelType {
+public enum DLabelType {
 
     TIMER,
     LABEL
