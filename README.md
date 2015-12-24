@@ -8,6 +8,9 @@ The backend package is where all of the XScoreboard library is stores, which pro
 
 I suggest you look at XScoreboard.java and other classes in that package to get an understanding.
 
+** PLEASE NOTE THAT ALL OF THE "DANK" IMPLEMENTATIONS ARE EXAMPLES.  FOR MOST USAGES, YOU WILL WANT TO CREATE YOUR OWN IMPLEMENTATIONS
+OF 'XScoreboardLabel', 'XScoreboardTimer', 'XScoreboard', ETC! **
+
 Most of the "dank" implementations are just examples, while you can use them; I suggest making your own implementations.
 
 Example.java in the example package should help you get started - theres lots of comments in there.
