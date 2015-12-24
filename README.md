@@ -1,5 +1,7 @@
 # dankboard
-dank scoreboards m80
+
+dankboard is a Bukkit scoreboard API for plugin developers.  It provides a base way to create scoreboards, assign them to players, and create different 'labels'.  Using this library, you can achieve very advantage, and object oriented scoreboard setups, for multiple players, just one, etc.  The possibilities are endless.
+There are a few available examples within this repo (see below), and are not necessary.  Aswell, the entire 'frontend' package is an *example* implementation: while you may use it, it is designed for a specific situation in which I was using it.  I suggest making your own implementation of the classes within the 'backend' package.
 
 For examples on how to use this library, see the example package
 (https://github.com/Shawckz/dankboard/tree/master/src/main/java/com/shawckz/dankboard/example)
